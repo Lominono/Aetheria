@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria: Crónicas Divinas — Sandbox de Dioses con IA",
+  "description": "Simulador de mundo estilo WorldBox en 2D donde eres un dios y una IA narra la historia, dirige reyes con personalidad propia y genera eventos dinámicos en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
